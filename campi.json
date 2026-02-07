@@ -1,0 +1,54 @@
+{
+  "campi": [
+    {
+      "id": 1,
+      "nome": "Centro Sportivo Olimpia",
+      "citta": "Milano",
+      "sport": "Calcio",
+      "prezzo_orario": 60,
+      "disponibile": true,
+      "orari": ["09:00", "11:00", "15:00", "18:00"],
+      "immagine": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 2,
+      "nome": "Play Arena",
+      "citta": "Torino",
+      "sport": "Basket",
+      "prezzo_orario": 45,
+      "disponibile": true,
+      "orari": ["10:00", "14:00", "17:00"],
+      "immagine": "https://images.unsplash.com/photo-1519861531473-9200262188bf?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 3,
+      "nome": "Sport Village",
+      "citta": "Roma",
+      "sport": "Tennis",
+      "prezzo_orario": 35,
+      "disponibile": false,
+      "orari": [],
+      "immagine": "https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 4,
+      "nome": "Green Field",
+      "citta": "Napoli",
+      "sport": "Calcio",
+      "prezzo_orario": 55,
+      "disponibile": true,
+      "orari": ["08:00", "12:00", "16:00", "20:00"],
+      "immagine": "https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 5,
+      "nome": "Urban Court",
+      "citta": "Bologna",
+      "sport": "Basket",
+      "prezzo_orario": 40,
+      "disponibile": true,
+      "orari": ["09:00", "13:00", "18:00"],
+      "immagine": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d?auto=format&fit=crop&w=800&q=60"
+    }
+  ]
+}
