@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "name": "Pallet in legno modello EPAL",
+      "dimensions": "1200 * 1000 * 144 h",
+      "materials": {
+        "boards": "abete e/o pino",
+        "blocks": "agglomerato pressato",
+        "nails": "ringed e/o liscio ribattuto"
+      },
+      "images": [
+        "https://github.com/your-repo-path/epal_pallet_image.jpg"
+      ]
+    },
+    {
+      "name": "Pallet pressato modello PRESSPALL",
+      "dimensions": "1000 * 1200 * 135 h",
+      "materials": {
+        "material": "legno pressato (particicle board)"
+      },
+      "dynamic_capacity_max": "900kg circa",
+      "static_capacity_max": "2500kg circa",
+      "images": [
+        "https://github.com/your-repo-path/presspall_pallet_image.jpg"
+      ]
+    },
+    {
+      "name": "Pallet in plastica modello VIPALL",
+      "dimensions": "800 * 1200 * 155 h",
+      "materials": {
+        "material": "plastica vergine",
+        "colors": "bianco/azzurro"
+      },
+      "dynamic_capacity_max": "1000kg circa",
+      "static_capacity_max": "5000kg circa",
+      "images": [
+        "https://github.com/your-repo-path/vipall_pallet_image.jpg"
+      ]
+    },
+    {
+      "name": "Paretali in legno",
+      "dimensions": "600 * 800 * 200 h",
+      "treatment": "essicazione del legno al di sotto del 20% di umidità, trattamento HT come da normativa FAO ISPM 15",
+      "images": [
+        "https://github.com/your-repo-path/paretali_wood_image.jpg"
+      ]
+    }
+  ]
+}
