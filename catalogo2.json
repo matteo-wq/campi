@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "name": "Pallet in legno",
+      "description": "I pallet in legno rappresentano la soluzione più utilizzata per il trasporto e lo stoccaggio delle merci.",
+      "features": [
+        "Realizzati con legno di qualità, adatto a sostenere carichi elevati",
+        "Disponibili in misure standard o personalizzate",
+        "Trattabili secondo la normativa ISPM 15 per l’esportazione",
+        "Riutilizzabili e facilmente riparabili",
+        "Provenienti da filiere controllate e sostenibili"
+      ],
+      "images": [
+        "https://github.com/your-repo-path/wooden_pallet_image.jpg"
+      ]
+    },
+    {
+      "name": "Pallet in legno pressato",
+      "description": "I pallet pressati sono una soluzione pratica ed economica, pensata soprattutto per le spedizioni.",
+      "features": [
+        "Struttura leggera che facilita la movimentazione",
+        "Elevata impilabilità, ideale per ridurre l’ingombro",
+        "Adatti all’esportazione senza trattamenti aggiuntivi",
+        "Realizzati con materiali riciclati ed ecocompatibili",
+        "Costi di trasporto contenuti"
+      ],
+      "images": [
+        "https://github.com/your-repo-path/pressed_wood_pallet_image.jpg"
+      ]
+    },
+    {
+      "name": "Pallet in plastica",
+      "description": "I pallet in plastica sono progettati per ambienti che richiedono elevati standard igienici.",
+      "features": [
+        "Superficie lavabile e facilmente sanificabile",
+        "Resistenti a umidità, agenti chimici e muffe",
+        "Struttura solida con lunga durata nel tempo",
+        "Disponibili in diverse dimensioni e modelli",
+        "Compatibili con sistemi di magazzino automatici"
+      ],
+      "images": [
+        "https://github.com/your-repo-path/plastic_pallet_image.jpg"
+      ]
+    },
+    {
+      "name": "Paretali in legno",
+      "description": "I paretali in legno sono strutture utilizzate per proteggere e contenere la merce durante il trasporto e lo stoccaggio.",
+      "features": [
+        "Realizzati in legno resistente e di qualità",
+        "Migliorano la stabilità del carico",
+        "Proteggono la merce da urti e spostamenti",
+        "Disponibili in diverse misure e configurazioni",
+        "Riutilizzabili e facili da montare"
+      ],
+      "images": [
+        "https://github.com/your-repo-path/wooden_sidewalls_image.jpg"
+      ]
+    },
+    {
+      "name": "Plance di protezione",
+      "description": "Le plance di protezione in legno sono ideali per salvaguardare prodotti delicati durante il trasporto.",
+      "features": [
+        "Protezione efficace contro urti e pressioni",
+        "Utili per separare e stabilizzare la merce",
+        "Realizzabili su misura in base alle esigenze",
+        "Struttura solida ma pratica da usare",
+        "Riutilizzabili nel tempo"
+      ],
+      "images": [
+        "https://github.com/your-repo-path/protection_planks_image.jpg"
+      ]
+    },
+    {
+      "name": "Display in pallet",
+      "description": "I display in pallet sono strutture pensate per l’esposizione dei prodotti nei punti vendita.",
+      "features": [
+        "Realizzati con pallet in legno",
+        "Design personalizzabile in base al prodotto",
+        "Soluzione ecologica e riutilizzabile",
+        "Ideali per negozi, fiere ed eventi",
+        "Facili da montare e spostare"
+      ],
+      "images": [
+        "https://github.com/your-repo-path/pallet_display_image.jpg"
+      ]
+    }
+  ]
+}
