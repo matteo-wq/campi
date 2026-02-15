@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "nome": "Pallet in legno modello EPAL",
+    "descrizione": "Pallet europeo standard certificato, ideale per logistica e trasporti internazionali",
+    "dimensioni": "1200 × 1000 × 144 mm",
+    "materiali": {
+      "tavole": "abete e/o pino",
+      "blocchetti": "agglomerato pressato",
+      "chiodi": "ringed e/o liscio ribattuto"
+    },
+    "immagini": [
+      "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&h=400&fit=crop"
+    ],
+    "prezzo": 12.50,
+    "disponibile": true,
+    "categoria": "legno"
+  },
+  {
+    "id": 2,
+    "nome": "Pallet pressato modello PRESSPALL",
+    "descrizione": "Pallet in legno pressato ad alta resistenza, perfetto per carichi pesanti",
+    "dimensioni": "1000 × 1200 × 135 mm",
+    "materiali": {
+      "materiale": "legno pressato (particle board)"
+    },
+    "portata_dinamica": "900 kg circa",
+    "portata_statica": "2500 kg circa",
+    "immagini": [
+      "https://images.unsplash.com/photo-1578916171728-46686eac8d58?w=600&h=400&fit=crop"
+    ],
+    "prezzo": 15.90,
+    "disponibile": true,
+    "categoria": "pressato"
+  },
+  {
+    "id": 3,
+    "nome": "Pallet in plastica modello VIPALL",
+    "descrizione": "Pallet in plastica vergine, resistente e igienico, ideale per settore alimentare",
+    "dimensioni": "800 × 1200 × 155 mm",
+    "materiali": {
+      "materiale": "plastica vergine",
+      "colori": ["bianco", "azzurro"]
+    },
+    "portata_dinamica": "1000 kg circa",
+    "portata_statica": "5000 kg circa",
+    "immagini": [
+      "https://images.unsplash.com/photo-1594737625785-a6cbdabd356f?w=600&h=400&fit=crop"
+    ],
+    "prezzo": 22.00,
+    "disponibile": true,
+    "categoria": "plastica"
+  },
+  {
+    "id": 4,
+    "nome": "Paretali in legno",
+    "descrizione": "Paretali in legno trattato secondo normativa FAO ISPM 15",
+    "dimensioni": "600 × 800 × 200 mm",
+    "trattamento": "Essicazione del legno sotto il 20% di umidità, trattamento HT secondo normativa FAO ISPM 15",
+    "immagini": [
+      "https://images.unsplash.com/photo-1615811361523-6bd03d7748e7?w=600&h=400&fit=crop"
+    ],
+    "prezzo": 8.50,
+    "disponibile": true,
+    "categoria": "accessori"
+  }
+]
