@@ -1,0 +1,23 @@
+[
+{
+id: 1,
+titolo: "Il Signore degli Anelli",
+autore: "J.R.R. Tolkien",
+genere: "Fantasy",
+prezzo: 25
+},
+{
+id: 2,
+titolo: "1984",
+autore: "George Orwell",
+genere: "Distopico",
+prezzo: 18
+},
+{
+id: 3,
+titolo: "Il nome della rosa",
+autore: "Umberto Eco",
+genere: "Storico",
+prezzo: 22
+}
+]
